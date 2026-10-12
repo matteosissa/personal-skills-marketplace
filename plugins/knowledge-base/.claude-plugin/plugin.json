@@ -1,0 +1,8 @@
+{
+  "name": "knowledge-base",
+  "version": "1.0.0",
+  "description": "Skills for working with my personal Obsidian knowledge base: navigating, structuring and auditing the vault.",
+  "author": {
+    "name": "Matteo"
+  }
+}

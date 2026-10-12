@@ -1,0 +1,8 @@
+{
+  "name": "live-tutorial",
+  "version": "1.0.0",
+  "description": "Teach the user a hands-on process as an interactive, user-driven tutorial.",
+  "author": {
+    "name": "Matteo"
+  }
+}

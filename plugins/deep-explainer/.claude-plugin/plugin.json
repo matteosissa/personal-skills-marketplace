@@ -1,0 +1,8 @@
+{
+  "name": "deep-explainer",
+  "version": "1.0.0",
+  "description": "Learn unfamiliar topics from absolute zero: a dependency-graph explainer and a Socratic question-driven variant.",
+  "author": {
+    "name": "Matteo"
+  }
+}

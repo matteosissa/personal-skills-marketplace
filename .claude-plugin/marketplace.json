@@ -1,0 +1,26 @@
+{
+  "name": "personal-skills-marketplace",
+  "owner": {
+    "name": "Matteo"
+  },
+  "metadata": {
+    "description": "Personal collection of skills and plugins"
+  },
+  "plugins": [
+    {
+      "name": "deep-explainer",
+      "source": "./plugins/deep-explainer",
+      "description": "Learn unfamiliar topics from absolute zero: a dependency-graph explainer (ground-up-explainer) and a Socratic variant (socratic-ground-up)."
+    },
+    {
+      "name": "live-tutorial",
+      "source": "./plugins/live-tutorial",
+      "description": "Teach the user a hands-on process as an interactive, user-driven tutorial."
+    },
+    {
+      "name": "knowledge-base",
+      "source": "./plugins/knowledge-base",
+      "description": "Skills for my personal Obsidian knowledge base; currently includes validate-knowledge-base."
+    }
+  ]
+}
