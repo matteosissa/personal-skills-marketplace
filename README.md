@@ -27,6 +27,7 @@ plugins/<plugin>/
 | deep-explainer | Learn topics from zero: `ground-up-explainer` (dependency graph) and `socratic-ground-up` (question-driven) |
 | live-tutorial | User-driven, hands-on guided tutorials |
 | knowledge-base | Obsidian vault skills; currently `validate-knowledge-base` |
+| book-distiller | Turn a whole book into a chapter-faithful, enriched study summary (`book-distiller`) |
 
 ## Add a new plugin
 

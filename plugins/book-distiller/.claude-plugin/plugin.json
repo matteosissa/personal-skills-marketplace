@@ -1,0 +1,8 @@
+{
+  "name": "book-distiller",
+  "version": "1.0.0",
+  "description": "Distill a whole book or long document into a structure-preserving, enriched study summary readable in about 3 hours.",
+  "author": {
+    "name": "Matteo"
+  }
+}

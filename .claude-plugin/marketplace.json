@@ -21,6 +21,11 @@
       "name": "knowledge-base",
       "source": "./plugins/knowledge-base",
       "description": "Skills for my personal Obsidian knowledge base; currently includes validate-knowledge-base."
+    },
+    {
+      "name": "book-distiller",
+      "source": "./plugins/book-distiller",
+      "description": "Distill a whole book or long document into a structure-preserving, enriched study summary readable in about 3 hours."
     }
   ]
 }
